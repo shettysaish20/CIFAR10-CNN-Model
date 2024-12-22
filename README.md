@@ -1,4 +1,4 @@
-# CIFAR 10 CNN Lite Model Architecture- TSAI ERA V3 Session 7 Assignment
+# CIFAR 10 CNN Model Architecture- TSAI ERA V3 Session 8 Assignment
 
 This repository contains a CNN model architecture for the CIFAR 10 dataset.
 
