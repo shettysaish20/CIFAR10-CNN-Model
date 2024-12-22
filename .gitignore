@@ -1,0 +1,11 @@
+test_notebooks/
+*.pth
+*.pth.tar
+*.pth.tar.gz
+*.pth.tar.xz
+*.pth.tar.bz2
+*.pth.tar.lzma
+*.pth.tar.lz4
+*.pth.tar.zstd
+*.ipynb
+
