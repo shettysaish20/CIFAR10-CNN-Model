@@ -8,4 +8,6 @@ test_notebooks/
 *.pth.tar.lz4
 *.pth.tar.zstd
 *.ipynb
-
+*.csv
+data/
+__pycache__/
